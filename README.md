@@ -60,6 +60,7 @@
 - 디렉토리: `weekXX/주제명/boj_문제번호.cpp`
 - 커밋 메시지:  
   `[태그][weekXX] boj_문제번호 try+횟수`
+  ex. [feat][week1] boj_10000
 - PR 형식 :
   `yymmdd_weekXX`
 
