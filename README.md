@@ -19,7 +19,7 @@
   - ex. optiprime 브랜치에 week1파일을 만든 후 문제 파일을 업로드
 
 
----
+
 
 
 ## ✅ 목표
@@ -28,7 +28,7 @@
 - 꾸준한 문제 풀이 습관 만들기!
 
 
----
+
 
 
 ## 💻 사용 도구
@@ -41,7 +41,7 @@
 | 기록 방식 | GitHub + Notion |
 
 
----
+
 
 
 ## 👩‍💻 스터디원
@@ -52,7 +52,7 @@
 | 소연 (soyeoneeii) | [@soyeoneeii](https://github.com/soyeoneeii)   |
 
 
----
+
 
 
 ## 📝 Commit, PR 컨벤션
@@ -64,7 +64,17 @@
   `yymmdd_weekXX`
 
 
----
+```plaintext
+algorithm-study  
+├── README.md  
+├── week1
+│   ├── Brute Force
+│   └── Implementation  
+└── week2
+    ├── Greedy    
+    └── Implementation  
+```
+
 
 
 ## 🏷️ 태그 규칙
